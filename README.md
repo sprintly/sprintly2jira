@@ -140,12 +140,4 @@ Once you importing your file into JIRA, you'll be asked to provide a date format
 
    "yyyy-MM-dd'T'HH:mm:ssX"
 
-## Support
-
-Our migration to JIRA is done, so no longer need this tool and won't be maintaining it.
-
-If you'd like to become the new primary maintainer, contact Mark Stosberg <mark@rideamigos.com>
-
-
-
 
